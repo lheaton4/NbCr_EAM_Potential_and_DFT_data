@@ -1,0 +1,1 @@
+# NbCr_EAM_Potential_and_DFT_data

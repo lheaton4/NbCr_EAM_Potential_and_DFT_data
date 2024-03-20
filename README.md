@@ -1,1 +1,1 @@
-# NbCr_EAM_Potential_and_DFT_data
+This repository contains the setfl formatted embedded-atom model (EAM) interatomic potential developed and used in 'A Study of the Thermomechanical Behavior of NbCr Solid Solutions and the Stability of NbCr2 Laves Phases Using Molecular Dynamics Simulations' by Lucas A. Heaton and Adib J. Samin. Additionally, all DFT data used to train the potential may be found in 'DFTdata.xlsx'.
